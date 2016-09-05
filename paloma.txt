@@ -1,4 +1,3 @@
 ﻿alkdl
 nova linha
-dinovo
 feito via fork
